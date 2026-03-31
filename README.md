@@ -1,5 +1,19 @@
 # 2026-radtour-belgien
 
+## Brüssel -> Oudenaarde
+
+# Brüssel - Lessines
+- Muur van Geraardsbergen
+- Bosberg
+
+# Lessines - Oudenaarde
+- Oude Kwaremont
+- Paterberg
+- Taaienberg
+- Eikenberg
+
+
+
 ## Flandern – Herz der Kopfsteinpflaster-Klassiker
 (Ronde van Vlaanderen, E3, Gent–Wevelgem, Omloop)
 
